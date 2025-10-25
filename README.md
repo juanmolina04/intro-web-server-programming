@@ -1,7 +1,7 @@
 # intro-web-server-programming
 
-#Juan Sebastian Molina/ 408752
+# Juan Sebastian Molina/ 408752
 
-#Video
+# Video
 
 https://drive.google.com/drive/u/2/folders/1yaH1nI8ZHkXI5eHyUsV5_vLgnTL6TldW
